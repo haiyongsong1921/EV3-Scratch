@@ -9,7 +9,7 @@ This repo contains the scratch code, and the README file describes the details i
 > The ev3 will run forward by default, and it will use ultrasonic sensor to detect the block in front of it, then it will backward and turn left when the front block is near less than 20cm. [头条教学视频](https://www.ixigua.com/i6796925397511438851/)
 
 ## 3. infrared_remote_control
-> You can control the ev3 robot moving by pressing the buttons on the beacon of infrared sensor.  [头条教学视频](https://www.ixigua.com/i6789352267343462925/) 
+> You can control the ev3 robot moving by pressing the buttons on the beacon of infrared sensor.  [头条教学视频](https://www.ixigua.com/i6798808980865942030/) 
 
 | button pressed  | action    |
 | ------------- | ----------- |
@@ -17,3 +17,6 @@ This repo contains the scratch code, and the README file describes the details i
 | top_right  | turn right |
 | top_left + top_right  | run forward  |
 | bottom_left + bottom_rigth  | run backward  |
+
+## 4. touch_sensor
+>The car will run forward until the touch sensor was pressed. It will speak out "ouch" and then it will backward left to change the direction, after that, it will run forward again. Its' path is same as "avoid_block"
