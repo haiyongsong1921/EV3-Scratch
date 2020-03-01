@@ -19,4 +19,10 @@ This repo contains the scratch code, and the README file describes the details i
 | bottom_left + bottom_rigth  | run backward  |
 
 ## 4. touch_sensor
->The car will run forward until the touch sensor was pressed. It will speak out "ouch" and then it will backward left to change the direction, after that, it will run forward again. Its' path is same as "avoid_block"
+>The car will run forward until the touch sensor was pressed. It will speak out "ouch" and then it will backward left to change the direction, after that, it will run forward again. Its' path is same as "avoid_block"  [头条教学视频](https://www.ixigua.com/i6798808980865942030/)
+
+## 5. color_and_sound
+>The color sensor detects different colors and speak out the color.  [头条教学视频](https://www.ixigua.com/i6799179127665459720/)
+
+## 5. button_and_sound
+>Press the buttons on the EV3 brick and the LED lights will change and the screen will display a laugh face.[头条教学视频](https://www.ixigua.com/i6799187901784523278/)
