@@ -24,5 +24,8 @@ This repo contains the scratch code, and the README file describes the details i
 ## 5. color_and_sound
 >The color sensor detects different colors and speak out the color.  [头条教学视频](https://www.ixigua.com/i6799179127665459720/)
 
-## 5. button_and_sound
+## 6. button_and_sound
 >Press the buttons on the EV3 brick and the LED lights will change and the screen will display a laugh face.[头条教学视频](https://www.ixigua.com/i6799187901784523278/)
+
+## 7. line_follower
+>Implement the line follower movement with color sensor. There're two ways to implement that, one is simple algorithm, and another is proportional control algorithm. [头条教学视频](https://www.ixigua.com/i6801746408090108423/)
